@@ -4,7 +4,7 @@ A user may explore food options, utilize a shopping cart, edit their carts and m
 To be uploaded: Robust version includes an user registration and administration route with built-in authentication so site owners may create,
 update or delete a product's information including images, pricing and descriptions.
 Administration route includes a interacting dashboard showing sale trends.
-
-Front End: React, Material UI, Styled Components, Toastify
-Back End: Express,Node.js, JSON web tokens, Stripe, Crypto-JS
-Database: MongoDB, Firebase
+<br><br>
+Front End: React, Material UI, Styled Components, Toastify<br>
+Back End: Express,Node.js, JSON web tokens, Stripe, Crypto-JS<br>
+Database: MongoDB, Firebase<br>
